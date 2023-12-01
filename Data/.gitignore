@@ -1,0 +1,12 @@
+*.*
+!.gitattributes
+!.gitignore
+!readme.md
+!.gitkeep
+!*.R
+!*.do
+!*.m
+!*.jl
+!deloecker_etal_targets.csv
+!bds2020 (2).csv
+!bds2020_fa (3).csv
